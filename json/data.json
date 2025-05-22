@@ -1,0 +1,130 @@
+{
+  "Projects": [
+    {
+      "show": true,
+      "title": "Nasi Goreng Spesial",
+      "desc": [
+        "Bekerja di dapur bukan hanya soal memasak, tetapi juga mengenai kedisiplinan, kerja sama tim, dan konsistensi. Saya terbiasa bekerja di bawah tekanan, menjaga kualitas rasa, kebersihan, serta kecepatan dalam menyelesaikan setiap tugas. Salah satu proyek yang saya jalani adalah menciptakan (Nasi Goreng Spesial), sebuah menu yang saya kembangkan menjadi hidangan yang berbeda dari nasi goreng pada umumnya. Resep ini saya pelajari dari seorang mantan chef berpengalaman, yang memberikan arahan serta bimbingan langsung.",
+        "Dengan semangat belajar yang tinggi, saya selalu berusaha memberikan yang terbaik, mulai dari persiapan bahan, penyajian, hingga memastikan bahan-bahan yang digunakan tetap segar. Saya juga memastikan standar kebersihan dapur selalu terjaga. Bagi saya, setiap hidangan yang keluar dari dapur mencerminkan kerja keras dan tanggung jawab saya sebagai bagian dari tim."
+      ],
+      "year": "2024 - 2025",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/trivia/trivia-thumbnail.png",
+      "images": [
+        "/image/projects/web/trivia/trivia1.png",
+        "/image/projects/web/trivia/trivia2.png",
+        "/image/projects/web/trivia/trivia3.png"
+      ],
+      "tech": [
+        "Junior - Leader "
+      ], 
+      "slug": "trivia",
+      "category": [1, 2]
+    },
+    {
+      "show": true,
+      "title": "Mesin Mining",
+      "desc": [
+        "Proyek ini saya rancang untuk mengubah perangkat ponsel menjadi mesin mining yang dapat digunakan untuk proses penambangan digital. Dalam pengembangannya, saya menggunakan ponsel 4x sebagai sistem mining, yang dirakit secara mandiri menggunakan komponen elektronik dan berbagai perangkat keras pendukung. Setiap ponsel dirakit dengan teliti berdasarkan wiring diagram yang telah saya susun sebelumnya, memastikan koneksi dan arus listrik bekerja secara efisien. Selain itu, saya menggunakan berbagai perangkat lunak pendukung seperti MiFlash dan sejumlah tool lainnya untuk melakukan proses flashing, konfigurasi sistem, serta pengoptimalan performa perangkat.",
+        "Proses ini tidak hanya membutuhkan pemahaman mendalam tentang sistem operasi Android dan teknik elektronika dasar, tetapi juga menuntut ketelitian, kesabaran, dan kemampuan troubleshooting dalam menghadapi berbagai kendala teknis. Melalui proyek ini, saya mengasah kemampuan saya dalam merancang sistem terintegrasi, memahami fungsi perangkat keras dan lunak secara bersamaan, serta menerapkan solusi efektif dalam dunia teknologi praktis. Proyek Mesin Mining ini menjadi salah satu bukti nyata kontribusi saya dalam mengembangkan solusi teknologi mandiri dengan pendekatan yang efisien dan aplikatif."
+      ],
+      "year": "2024",
+      "thumbnail": "/image/projects/web/saku-senyum/saku-senyum-thumbnail.png",
+      "images": [
+        "/image/projects/web/saku-senyum/saku-senyum1.png",
+        "/image/projects/web/saku-senyum/saku-senyum2.png",
+        "/image/projects/web/saku-senyum/saku-senyum3.png",
+        "/image/projects/web/saku-senyum/saku-senyum4.png"
+      ],
+      "tech": [
+        ""
+      ], 
+      "slug": "simadun",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Remapping ECM",
+      "desc": [
+        "Proyek ini bertujuan untuk meningkatkan performa mesin kendaraan secara signifikan, khususnya dalam aspek tenaga, torsi, efisiensi bahan bakar, serta responsivitas mesin. Proses ini dikenal sebagai Remapping ECU (Electronic Control Unit), yaitu teknik modifikasi perangkat lunak yang mengatur sistem kerja mesin. Dalam proyek ini, saya melakukan kalibrasi ulang terhadap parameter bawaan pabrik yang terdapat pada ECU. Penyesuaian ini mencakup pengaturan bahan bakar, waktu pengapian (ignition timing), serta tekanan turbo, yang semuanya berkontribusi terhadap peningkatan performa secara menyeluruh."
+      ],
+      "year": "2023",
+      "preview": "",
+      "thumbnail": "/image/projects/web/vicc/vicc-thumbnail.jpg",
+      "images": [
+        "/image/projects/web/vicc/vicc1.png",
+        "/image/projects/web/vicc/vicc2.png",
+        "/image/projects/web/vicc/vicc3.png"
+      ],
+      "tech": [
+        ""
+      ],
+      "slug": "vicc",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Maintenace Engine",
+      "desc": [
+        "Proyek ini saya kerjakan sebagai seorang Junior Mekanik, khususnya saat proses peningkatan performa mesin (engine upgrade). Fokus utama pekerjaan saya adalah pada tahap perawatan dan penggantian komponen penting, seperti sistem perpipaan (piping) untuk intercooler dan turbo. Dalam proyek ini, saya terlibat langsung dalam pembongkaran dan pemasangan komponen baru, memastikan setiap sambungan bekerja optimal, serta memeriksa ulang aliran udara dan tekanan pada sistem induksi paksa.",
+        "Pekerjaan ini menjadi pondasi penting dalam karier saya sebagai teknisi, di mana saya belajar pentingnya ketelitian, efisiensi kerja, serta komunikasi tim dalam memastikan setiap kendaraan dapat beroperasi dalam kondisi maksimal."
+      ],
+      "year": "2022",
+      "preview": "",
+      "thumbnail": "/image/projects/web/react-chat/chat-thumbnail.png",
+      "images": [
+        "/image/projects/web/react-chat/chat1.png",
+        "/image/projects/web/react-chat/chat2.png",
+        "/image/projects/web/react-chat/chat3.png",
+        "/image/projects/web/react-chat/chat4.png"
+      ],
+      "tech": [
+        ""
+      ],
+      "slug": "react-chat",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Propeller brake",
+      "desc": [
+        "Proyek ini saya kerjakan sebagai seorang Junior Engineer yang bertanggung jawab pada sistem pengereman baling-baling (propeller). Fokus utama dari proyek ini adalah memahami dan mengimplementasikan sistem Propeller Brake, yaitu sistem rem khusus yang berfungsi untuk menghentikan rotasi baling-baling pada saat mesin dalam kondisi mati atau ketika terjadi malfungsi teknis yang berisiko menyebabkan baling-baling berputar tanpa kendali. Dalam pelaksanaannya, saya terlibat dalam analisis mekanisme kerja sistem rem, proses instalasi, serta pengujian fungsional untuk memastikan performa optimal dan keselamatan operasional. Proyek ini menjadi bagian penting dalam pengembangan kompetensi saya sebagai engineer pemula, terutama dalam penerapan prinsip keselamatan dan teknik mekanikal yang presisi."
+      ],
+      "year": "2020",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/tools/tools-thumbnail.png",
+      "images": [
+        "/image/projects/web/tools/tools.png",
+        "/image/projects/web/tools/tools1.png",
+        "/image/projects/web/tools/tools2.png",
+        "/image/projects/web/tools/tools3.png"
+      ],
+      "tech": [
+        "Junior Engineer"
+      ],
+      "slug": "react-tools",
+      "category": [1]
+    }, 
+    {
+      "show": true,
+      "title": "Remapping ECM",
+      "desc": [
+        "Dalam proyek ini, saya tengah melakukan penyesuaian sistem pada kendaraan roda dua melalui proses remapping ECM (Engine Control Module). Proses ini mencakup pengubahan parameter pada perangkat lunak (ECU) yang berfungsi mengendalikan kinerja mesin, dengan tujuan utama meningkatkan performa, responsivitas, serta efisiensi bahan bakar kendaraan. Remapping ECM membutuhkan pemahaman mendalam tentang karakteristik mesin, serta ketelitian dalam menyesuaikan kurva pengapian, injeksi bahan bakar, dan kontrol udara. Pengalaman ini turut memperkaya kompetensi teknis saya di bidang teknologi otomotif modern."],
+      "year": "2023",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/ino/ino1.png",
+      "images": [
+        "/image/projects/web/ino/ino1.png",
+        "/image/projects/web/ino/ino2.png",
+        "/image/projects/web/ino/ino3.png"
+      ],
+      "tech": [
+      ],
+      "slug": "nu-ino-website",
+      "category": [1]
+    }
+  ]
+}
