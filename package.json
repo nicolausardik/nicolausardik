@@ -1,12 +1,12 @@
 {
-  "name": "alvalen-portfolio-website",
+  "name": "nicolausardik-portfolio-website",
   "author": {
-    "name": "Alvalen Shafelbilyunazra",
-    "email": "alvalen.shafel04@gmail.com",
-    "url": "https://alvalens.my.id" 
+    "name": "Nicolausardi Kurniawan",
+    "email": "nicolausardikurniawan@gmail.com",
+    "url": "https://nicolausardik.my.id" 
   },
   "license": "GPL-3.0",
-  "copyright": "Copyright (C) 2025 Alvalen Shafelbilyunazra",
+  "copyright": "Copyright (C) 2025 Nicolausardi Kurniawan",
   "version": "1.0.0",
   "private": true,
   "scripts": {
